@@ -1,10 +1,10 @@
-### Olá, mundo! 👋 Meu nome é [Guilherme]
+### Olá, mundo! 👋 Meu nome é Guilherme
 
-Sou estudante de Ciência da Computação, apaixonado por desenvolvimento de software, sistemas embarcados e tecnologia em geral. 
+Sou estudante de Ciência da Computação do ICT UNIFESP, apaixonado por desenvolvimento de software, sistemas embarcados e tecnologia em geral. 
 
-- 💻 Atualmente estou focado em aprofundar meus conhecimentos em **C, Python e WebGL**.
-- 🛠️ Trabalhando com projetos envolvendo ESP32, microcontroladores e bancos de dados.
-- 🎯 Buscando sempre aprender novas tecnologias e resolver problemas complexos.
+- Atualmente estou focado em aprofundar meus conhecimentos em **C, Python e WebGL**.
+- Trabalhando com projetos envolvendo ESP32, microcontroladores e bancos de dados.
+- Buscando sempre aprender novas tecnologias e resolver problemas complexos.
 
 ---
 
@@ -23,8 +23,8 @@ Sou estudante de Ciência da Computação, apaixonado por desenvolvimento de sof
 ### 📊 Estatísticas do GitHub
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gpombotky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpombotky&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <br clear="all"/>
