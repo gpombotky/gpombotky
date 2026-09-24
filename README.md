@@ -1,4 +1,10 @@
-### Olá, mundo! 👋 Meu nome é Guilherme
+<div align="center">
+  <h1>👋 Olá, mundo! Meu nome é Guilherme!</h1>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Estudante+de+Computação+e+Engenharia;Desenvolvedor+C+e+Python;Explorando+Sistemas+Embarcados+e+WebGL" alt="Typing Effect" />
+</p>
 
 Sou estudante de Ciência da Computação do ICT UNIFESP, apaixonado por desenvolvimento de software, sistemas embarcados e tecnologia em geral. 
 
