@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Olá, mundo! Meu nome é Guilherme!</h1>
+  <h1>Olá, mundo! Meu nome é Guilherme!</h1>
 </div>
 
 <p align="center">
