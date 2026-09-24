@@ -3,12 +3,12 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Estudante+de+Computação+e+Engenharia;Desenvolvedor+C+e+Python;Explorando+Sistemas+Embarcados+e+WebGL" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Estudante+de+Computação+ICT+UNIFESP;Desenvolvedor+Typescript+e+React;Explorando+Sistemas+Embarcados+e+WebGL" alt="Typing Effect" />
 </p>
 
-Sou estudante de Ciência da Computação do ICT UNIFESP, apaixonado por desenvolvimento de software, sistemas embarcados e tecnologia em geral. 
+Sou graduando do Bacharelado Interdisciplinar em Ciência e Tecnologia no ICT UNIFESP, apaixonado por desenvolvimento de software, sistemas embarcados e tecnologia em geral. 
 
-- Atualmente estou focado em aprofundar meus conhecimentos em **C, Python e WebGL**.
+- Atualmente estou focado em aprofundar meus conhecimentos em **Projeto e Análise de Algortimos, Engenharia de Software e IOT**.
 - Trabalhando com projetos envolvendo ESP32, microcontroladores e bancos de dados.
 - Buscando sempre aprender novas tecnologias e resolver problemas complexos.
 
